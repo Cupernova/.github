@@ -1,6 +1,6 @@
 
 
-  <h1>Cupernova</h1>
+  <h1>Sentric</h1>
 
   <p><b>Packages for People. Projects for iOS & macOS.</b></p>
 
